@@ -1,0 +1,29 @@
+ion-toolbar{
+    background-color: var(--ion-color-Azul);
+}
+
+ion-title{
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+    background-color: var(--ion-color-rojo);
+    color: azure; //color texto
+    padding: 20px 30px 20px 30px; //tamaño relleno del boton
+    border-radius: 10px; //redondez del borde
+    font-size: 20px; //tamaño
+    margin-top: 20px;
+}
+
+#container{
+    text-align: center; //alinea el boton al centro
+    left: 20px; //margen izquierdo
+    right: 20px; //margen derecho
+ 
+}
+
+.colorHead{
+    color: rgb(10, 10, 10);
+    font-weight: bold;
+}
