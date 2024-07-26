@@ -1,5 +1,6 @@
 ion-toolbar {
     background-color: var(--ion-color-Azul);
+    border-radius: 10px;
 }
 
 ion-title{
@@ -22,5 +23,16 @@ ion-title{
     right: 20px; //margen derecho
     top: 50px; //margen superior
     transform: translateY(-50%);
+}
+
+.texto{
+    background-color: rgb(254, 200, 200); //cambia el color del fondo
+    text-align: center; //alinear al centro
+    padding-top: 20px; //relleno del boton
+    padding-bottom: 20px;
+    border-radius: 30px; //redondez del borde
+    font-size: medium;
+    font-weight: bolder;
+    color: rgb(28, 0, 138);
 }
   

@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "name": "Han",
+            "state": "Mira, chico...",
+            "description": "Ya tengo bastante con lo que tengo, y...",
+            "image": "avatar-han.png"   
+        },
+        {
+            "name": "Luke",
+            "state": "Tus pensamientos te traicionan",
+            "description": "Siento el bien en ti, el conflicto...",
+            "image": "avatar-luke.png"   
+        },
+        {
+            "name": "Leia",
+            "state": "Eres mi única esperanza",
+            "description": "He colocado información vital para la supervivencia...",
+            "image": "avatar-leia.png"   
+        },
+        {
+            "name": "Finn",
+            "state": "Soy una gran persona",
+            "description": "Escucha, he tenido un día bastante complicado...",
+            "image": "avatar-finn.png"   
+        },
+        {
+            "name": "Rey",
+            "state": "Puedo arreglármelas sola",
+            "description": "Te quitarás estas ataduras y te irás...",
+            "image": "avatar-rey.png"   
+        },
+        {
+            "name": "Poe",
+            "state": "Nuevo viaje",
+            "description": "Acabo de actualizar mi X-Wing. La próxima vez...",
+            "image": "avatar-poe.png"   
+        },
+        {
+            "name": "Ben",
+            "state": "Sigue adelante",
+            "description": "Estos no son los droides que estás buscando...",
+            "image": "avatar-ben.png"   
+        },
+        {
+            "name": "Yoda",
+            "state": "El tamaño no importa",
+            "description": "Hacer o no hacer. No hay que probar...",
+            "image": "avatar-ben.png"   
+        }
+
+    ]
+}
